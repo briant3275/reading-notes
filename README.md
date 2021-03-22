@@ -10,3 +10,6 @@ Believing in your ability to learn new things and to not become discouraged when
 3. Do not think less of yourself when comparing yourself to others with more skills, use them as an example of what skills you can learn
 
 ### GitHub
+[Brian's Reading Notes Page](https://briant3275.github.io/reading-notes/)
+
+*For my final trick I present you with a awe-inspiring line of italicized text*
