@@ -65,8 +65,11 @@
         <thead> table head
         <tbody> table body
         <tfoot> table foot
-        
-
-
 
     #JSChapter3
+        Object.Key = value
+        object['key'] = 'park'
+        this.checkAvailability = function() {return this.rooms - this.booked;};
+        let object = new key (values)
+        you can add new properties to object after its created
+        
