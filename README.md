@@ -2,7 +2,7 @@
 
     # Welcome fellow mammals
 
-        My name is Brian Thornburg, my pronouns are he/him. I'm from Cedar Rapids Iowa and currently work as a cook at Big Grove Brewpub. I attended University of Northern Iowa studying studio art and still enjoy working on illustration, painting, digital work, print and performance. I am married to my majesctic wife Abby with which I have sired a child, Milo, who is 18 months old. Most of my time is dedicated towards spending time with them followed by cooking, gardening, doing art, coding, gaming and petting our three cats.
+        My name is Brian Thornburg, my pronouns are he/him. I'm from Cedar Rapids Iowa and currently work as a cook at Big Grove Brewpub. I attended University of Northern Iowa studying studio art and still enjoy working on illustration, painting, digital work, print and performance. I am married to my majesctic wife Abby with which I have sired a child, Milo, who is 2 years old. Most of my time is dedicated towards spending time with them followed by cooking, gardening, making art, coding, gaming and petting our three cats.
 
 
         ## Growth Mindset
@@ -20,7 +20,7 @@
 
         [Brian's Reading Notes Page](https://briant3275.github.io/reading-notes/)
 
-        *For my final trick I present you with a awe-inspiring line of italicized text*
+        *For my final trick I present you with an awe-inspiring line of italicized text*
 
         #### Text Editors
 
@@ -51,3 +51,22 @@
 
 
 ## 201 notes
+
+    #HtmlChapter6 Tables
+
+        tables are made of rows and columns. ex: financial reports, tv schedules, sports results. each block in grid is called a table cell. 
+        <table> creates table
+        <tr> indicates start of table row
+        <td> table data
+        <th> table heading
+        scope="col">  indicate column
+        colspan="number"
+        rowspan="number"
+        <thead> table head
+        <tbody> table body
+        <tfoot> table foot
+        
+
+
+
+    #JSChapter3
