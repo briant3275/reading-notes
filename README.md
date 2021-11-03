@@ -72,4 +72,24 @@
         this.checkAvailability = function() {return this.rooms - this.booked;};
         let object = new key (values)
         you can add new properties to object after its created
+    
+    #HTMLChapter15
+        - scc treats html elems as if its in box, either a block-level box or inline box
+        - if block-level elem sits inside another, the outer is the containing or parent
+        - positioning schemes
+            - normal flow : position static
+            - relative positioning : position relative
+            - absolute positioning : ''
+            - fixed positioning : ''
+            - floating elements : float
+        - z-index allows control of whats on top
+        - clearing floats  : clear
+        - left, right, both, none
+        - columns : width, float, margin
+        - fixed width layouts
+        - liquid layouts : stretch and contract with browser size
+        - grid layout
+        - mult style sheets : @import, link
+
+
         
