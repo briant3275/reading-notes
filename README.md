@@ -116,6 +116,12 @@
         
 
     #HTMLChapter14
+        - list style types: decimal, decimal-leading-zero, lower-alpha, upper-alpha, lower-roman, upper-roman
+        - list-style-image to use image as bullet points
+        - list-style-position outside: marker sits to left of box, inside: marker sits inside box
+        - list-style to style list
+        -
+        
 
     #JSChapter6
 
