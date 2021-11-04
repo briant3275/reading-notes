@@ -91,5 +91,32 @@
         - grid layout
         - mult style sheets : @import, link
 
+    #HTMLChapter7
+        - forms used to gather info from user
+        - all <form>s need an action and is sent via a method
+        - <input> used to create several form controls
+        - info from forms sent in name/value pairs
+        - type="password name="username" size="a number" maxlength="a number"
+        - <textarea> used to create multi'line text input
+        - "radio" allows one number of options
+        - "checkbox" allows one or more options
+        - <select> creates dropdown list box
+        - <option> specifies user options
+        - size attribute controls having more than one option
+        - type="file" if you want user to upload a file
+        - type="submit" sends form to server
+        - value used to control the text on the button
+        - type="image" if you want image for button
+        - <button> gives more control over how buttons appear
+        - <label>
+        - <fieldset> group related form controls
+        - <legend> comes after fieldset, identifies purpose of group
+        - form validation for if form not filled out correctly
+        - <input>
+        
+
+    #HTMLChapter14
+
+    #JSChapter6
 
         
