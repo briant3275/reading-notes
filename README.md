@@ -125,4 +125,27 @@
 
     #JSChapter6
 
+    #JSChapter10
+        - there is one global execution context plus each function creates a new execution context
+        - eval context: text executed like code in internal function called eval ()
+        - js processes on line at a time, when statement needs data from another function, it stacks new function on top
+        - prepare: new scope, vars functions args are created
+        - execute: assign values, reference functions, execute statements
+        - hoisting: you can call functions before they are declared, and assign values to variables before they are declared
+        - each execution context has variables object,can access parents variables object
+        - children can get info from parents but parents cant get info from children
+        - if js generates an error it throws an exception, exceptions should notify user when there is a problem
+        - if there is no exception with an error occuring then the script stops
+        - errors: syntax: syntax incorrect, reference: var doesnt exist, type: value is unexpected data type, range: number outside range
+        - debug code or handle with try, catch, throw
+        - where is problem, what is it? listed in console
+        - use breakpoints to check stored values at a given time
+        - set multiple breakpoints to step thru 1by1
+        - conditional breakpoints with debugger keywords
+        - try: specify the code in suspect, catch: catch exceptions, finally: code runs either way, throw: creates error object
+        - debug tips:pg 484
+        - common errors: pg 485
+        
+
+
         
