@@ -146,6 +146,32 @@
         - debug tips:pg 484
         - common errors: pg 485
         
+    #HTMLChapter16
+        - WE can use css to control imnage sizes
+        - use different class names for diff sizes
+        - also use class names for alignment
+        - in order to center, use display: block on imgs
+        - background-image to place image in background
+        - background-repeat: repeat-x, repeat-y, background-attachment: fixed, scroll
+        - background-position: center top
+        - rollover for when cursor is on image, click for 3rd
+        - when an img is used in several places it is called a sprite
+        - :hover subclass
+        - linear-gradient(color1,color2)
+        - use screen behind text and over hi-contrast img
+
+    #HTMLChapter19
+        - SEO: search engine optimization
+        - on page and off page techniques
+        - keywords appear in: page title, url, headings, text, link text, img alt text. page description
+        - brainstorm, organize, research, compare, refine, map
+        - tracking code right before head for google analytics
+        - visits, unique visits, page views,pages per visit, avg time on site
+        - bounce rate shows if users left from page they arrived on
+        - referrers: shows sites linked to you
+        - domain name and web hosting
+        - disk space, bandwidtth, backups, email, server-side languages and databases are all factors used to determine which hosting company to use
+        - FTP programs allow you to xfer files from local to web server
 
 
         
