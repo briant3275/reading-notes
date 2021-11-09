@@ -174,4 +174,30 @@
         - FTP programs allow you to xfer files from local to web server
 
 
+    #Chart.js API article
+        - <canvas>
+        - Chart().Line();
+        - Labels for base of chart, datasets for values on chart
+        - strokeColor, pointColor, pointStrokeColor
+        - Chart().Pie(pieData, pieOptions)
+        - let pieOptions = { segmentShowStroke : false
+        animateScale : true}
+        - Chart().Bar(barData)
+
+    #Canvas API notes
+        - canvas is initially 300px wide by 150px high, can be sized with css but if it doesn't fit the ratio it will appear distorted
+        - specify width and height explicitly in th <canvas> attributes
+        - good idea to put a class on the canvas
+        - element can be styled just like a img but it won't affect the actual drawing on the canvas
+        - when no styling is applied, canvas will be transparent by default
+        -for fallback content, browsers with support will ignore content and display canvas, browsers without support will ignore container and show content
+        - getContext() used to obtain rendering, takes one parameter "2d"
+        - can check for browser support with if statement
+        - draw shapes by specifying coordinates, top left is 0,0
+        - fillRect(x,y,width,height) strokeRect() clearRect()
+        - beginPath(), closePath(), stroke(), fill()
+        - moveTo(x,y), arc(parameters for arcs)
+        - lineTo(x,y)
+        - quadraticCurve(cp1x, cply, x, y), bezierCurveTo(cp1x, cp1y, cp2x, cp2y, x, y)
+
         
