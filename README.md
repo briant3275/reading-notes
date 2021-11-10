@@ -200,4 +200,18 @@
         - lineTo(x,y)
         - quadraticCurve(cp1x, cply, x, y), bezierCurveTo(cp1x, cp1y, cp2x, cp2y, x, y)
 
+    #Local Storage Article
+        -os typically provides layer of abstraction for storing data like prefs or runtime state
+        - for local storage you can imbed your own database, invent file format, etc.
+        - bad things about cookies: included in http requests which can slow down app, sends unencrypted data over internet, limited to 4 kb of data
+        - microsoft made dhtml behaviors, one called userData with 64 kb of data per domain
+        - 2002 flash6 allowed up to 100 kb data per domain
+        - 2007 google gears could store unlimited data per domain in sql database tables
+        - 2009 dojox could auto detect flash,gears,air and an early html5
+        - html5 set out to standarize api
+        - html5 storage provided local storage
+        - from js access storage thru localstorage object
+        - data stored as a string in a key:value pair
+        - setitem() and getitem() removeitem() key()
+        
         
