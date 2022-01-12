@@ -9,6 +9,7 @@
 
    # react states vs props
 
-   1. You can pass counter components through props
+   1. You can pass components through props
    2. states happen outside of components, props are on the outside and components are passed through them
-   3. We rerender our app when
+   3. We rerender our app when we change the state
+   4. ex. of things we can store in state: counters, things that change
